@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Simpanan
+comment1.params=nama\ noRekening\ saldoAwal
+comment1.target=Simpanan(java.lang.String,\ long,\ double)
+numComments=2
